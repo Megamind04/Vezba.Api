@@ -1,0 +1,2 @@
+# Vezba.Api
+Learning SQL
